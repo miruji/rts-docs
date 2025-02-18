@@ -9,9 +9,9 @@ The structure of any project consists of:
 
 To create a new project, you can use the built-in RTS Package Manager with the following commands:
 
-* ./rts package local
-* ./rts package local <package name>
+* `./rts package local`
+* `./rts package local <package name>`
 
 For more detailed information about the commands, you can use:
 
-* ./rts package help
+* `./rts package help`
