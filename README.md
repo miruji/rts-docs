@@ -1,4 +1,4 @@
-# rts-docs
+## rts-docs
 Official documentation on the programming language RTS. 
 
 Has translations into English and Russian.
