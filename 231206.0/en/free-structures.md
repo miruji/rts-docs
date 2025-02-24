@@ -11,7 +11,7 @@ on the goals and requirements of your project. In RTS, you can
 implement structures starting from the smallest details. This will 
 help you understand what management mechanisms you need.
 
-## Denial of Errors
+### Denial of Errors
 
 In RTS, we deny the concept of errors, expecting either constant 
 behavior or unforeseen behavior. Constant behavior refers to the 
@@ -24,7 +24,7 @@ complex systems if you follow the rules of constant behavior.
 If necessary, you can also create additional checks and protection 
 mechanisms for your structures.
 
-## Reactivity and Modularity
+### Reactivity and Modularity
 
 RTS interprets code in real time and can handle multiple projects 
 or scenarios simultaneously, ensuring they do not interfere with 

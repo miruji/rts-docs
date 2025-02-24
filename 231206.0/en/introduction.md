@@ -7,7 +7,7 @@ seamless, dynamic, and modern software.
 This page offers an overview of the programming language and this 
 documentation.
 
-## About RTS
+### About RTS
 
 RTS is based on the Free Data Structures paradigm, combining it with 
 reactive behavior. This sets it apart from traditional approaches such 
@@ -36,7 +36,7 @@ running multiple projects simultaneously, high performance, and reliability.
 It automates processes in systems with dynamic changes, while also providing
 freedom for further development.
 
-## About the Documentation
+### About the Documentation
 
 All documentation is distributed under the Free Contribute License, which means 
 you can contribute by opening issues on [GitHub](https://github.com/miruji/rts-docs) 
