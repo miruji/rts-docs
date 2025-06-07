@@ -1,0 +1,15 @@
+introduction: "Введение"
+syntax: "Синтаксис"
+semantics: "Семантика"
+ownership: "Владение и ссылки"
+mutability: "Изменяемость"
+primitives: "Примитивы"
+
+structures: "Структуры"
+
+methods: "Методы"
+
+realtime: "Реальное время"
+free-structures: "Свободные структуры"
+package-manager: "Пакетный менеджер"
+project-structure: "Структура проекта"
