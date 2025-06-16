@@ -149,3 +149,7 @@ a = `abc\n`
 b: FormattedRawString = f`{a}`
 c: RawString = *b
 ```
+
+### Time
+
+** todo
